@@ -42,7 +42,7 @@
     "ember-cli-htmlbars": "^2.0.3",
     "ember-promise-utils": "^0.1.1",
     "ember-runtime-enumerable-includes-polyfill": "2.0.0",
-    "semantic-ui-css": "2.2.13"
+    "semantic-ui-css": "^2.2.0"
   },
   "devDependencies": {
     "babel-plugin-transform-es2015-block-scoping": "^6.24.1",
